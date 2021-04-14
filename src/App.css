@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 41vmin;
+  pointer-events: none;
+}
+.App-header {
+  background-color: #f03e3e;
+  min-height: 12vh;
+  color: blanchedalmond;
+  text-align: left;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 46px;
+  font-family:'Times New Roman', Times, serif;  
+
+}
+
+.App-footer{
+  background-color: whitesmoke;
+}
+.App-button{
+  background-color: cornsilk;
+  font-size: 230%;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: bolder;
+  opacity:1.5;
+  margin-top: 1%;
+  padding: 0.5%;
+}
+label{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 245%;
+}
+.i1{
+  margin-left: 5%;
+}
+.i2{
+  margin-left: 3%;
+}
+.card{
+  color: #000;
+  background-color: rgb(48, 178, 253);
+}

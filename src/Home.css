@@ -1,0 +1,23 @@
+.Home-header{
+    font-size: 475%;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: rgb(223, 67, 67);
+}
+.div1{
+    font-size: 200%;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 5%;
+}
+.div2{
+    font-size: 200%;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 45%;
+}
